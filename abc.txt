@@ -1,0 +1,5 @@
+4!
+exibe
+aloca,3
+cancela,3
+exibe
